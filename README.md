@@ -1,1 +1,1 @@
-# quantitative-analysis-of-music-recommender-systems
+# Quantitative Analysis of Music Recommender Systems
